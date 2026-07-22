@@ -1,15 +1,17 @@
-<h2 align="left">Hi 👋! My name is Vitor Emanoel da Silva Nogueira, welcome!</h2>
+<h2 align="center">Hi 👋! My name is Vitor Emanoel da Silva Nogueira, welcome!</h2>
 
 ###
 
 <div align="center">
-  <img src="![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vitoremanoelnogueira&hide=contribs,prs)" height="150" alt="stats graph"  />
-  <img src="[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vitoremanoelnogueira)](https://github.com/stats-organization/github-stats-extended)" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=vitoremanoelnogueira&hide=contribs,prs&theme=radical" alt="stats graph"  />
+</div>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitoremanoelnogueira&theme=radical" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -25,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/elvitor.nogueira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -39,8 +41,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/VitorEmanoelNogueira/VitorEmanoelNogueira/output/snake.svg" alt="Snake animation" />
 
