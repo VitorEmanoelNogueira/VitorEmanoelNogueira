@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=VitorEmanoelNogueira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs?username=VitorEmanoelNogueira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vitoremanoelnogueira&hide=contribs,prs)" height="150" alt="stats graph"  />
+  <img src="[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vitoremanoelnogueira)](https://github.com/stats-organization/github-stats-extended)" height="150" alt="languages graph"  />
 </div>
 
 ###
