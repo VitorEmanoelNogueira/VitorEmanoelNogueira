@@ -3,10 +3,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vitoremanoelnogueira&hide=contribs,prs&theme=radical" alt="stats graph"  />
+  <picture>
+    <source
+        srcset="https://github-stats-extended.vercel.app/api?username=vitoremanoelnogueira&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=vitoremanoelnogueira&show_icons=true" /> <!-- light mode -->
+  </picture>
 </div>
+
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitoremanoelnogueira&theme=radical" alt="languages graph"  />
+<picture>
+  <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=vitoremanoelnogueira&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitoremanoelnogueira&show_icons=true" /> <!-- light mode -->
+</picture>
 </div>
 
 ###
